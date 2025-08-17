@@ -1,2 +1,3 @@
-# amazon-project
-html css and javascript  projects
+# amazon-clone-project
+amazon clone project using HTML CSS JavaScript
+
